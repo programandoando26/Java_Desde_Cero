@@ -6,9 +6,9 @@ public class Comentarios {
         para mostrar un comentario de
         multiples lineas
         */
-        System.out.println("");
+        System.out.println();
         System.out.println("//\033[39;49m \033[31m  esto es un comentario de linea");
-        System.out.println("");
+        System.out.println();
 
         System.out.println("\033[39;49m/*");
 
