@@ -8,5 +8,8 @@ public class Tipo_Datos {
         int miprimeravariable=12;
         System.out.println("\033[32mmiprimeravariable\033[39;49m\033[31m="+miprimeravariable+"\033[39;49m");
         System.out.println("la varible que lleva por nombre contiene el valor de 12");
+
+
+
     }
 }
